@@ -14,8 +14,8 @@ your_channel_id_here = 'YOUR_CHANNEL_ID'
 # List of websites to check for new articles
 websites = [
     {
-        'name': 'Ethical Hack X',
-        'url': 'https://www.ethicalhackx.com/'
+        'name': 'Zscaler Blog',
+        'url': 'https://www.zscaler.com/blogs'
     },
     {
         'name': 'Hackaday',
@@ -24,6 +24,10 @@ websites = [
     {
         'name': 'Wired',
         'url': 'https://www.wired.com/'
+    },
+    {
+        'name': 'Wired',
+        'url': 'https://www.bleepingcomputer.com/'
     }
 ]
 
